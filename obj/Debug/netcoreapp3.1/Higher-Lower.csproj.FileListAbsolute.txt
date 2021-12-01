@@ -1,0 +1,13 @@
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\bin\Debug\netcoreapp3.1\Higher-Lower.exe
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\bin\Debug\netcoreapp3.1\Higher-Lower.deps.json
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\bin\Debug\netcoreapp3.1\Higher-Lower.runtimeconfig.json
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\bin\Debug\netcoreapp3.1\Higher-Lower.runtimeconfig.dev.json
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\bin\Debug\netcoreapp3.1\Higher-Lower.dll
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\bin\Debug\netcoreapp3.1\Higher-Lower.pdb
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\obj\Debug\netcoreapp3.1\Higher-Lower.csproj.AssemblyReference.cache
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\obj\Debug\netcoreapp3.1\Higher-Lower.AssemblyInfoInputs.cache
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\obj\Debug\netcoreapp3.1\Higher-Lower.AssemblyInfo.cs
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\obj\Debug\netcoreapp3.1\Higher-Lower.csproj.CoreCompileInputs.cache
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\obj\Debug\netcoreapp3.1\Higher-Lower.dll
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\obj\Debug\netcoreapp3.1\Higher-Lower.pdb
+C:\Users\bruh\source\repos\Higher-Lower\Higher-Lower\obj\Debug\netcoreapp3.1\Higher-Lower.genruntimeconfig.cache
